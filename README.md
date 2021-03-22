@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi there!! 👋
 
+- 🤵 I want to be a backend dev or a data scientist.
+- 💖 I love solving machine and real world problems.
+- 🌱 I’m currently learning javaScript, PHP, & Python.
+- 📫 You can reach me: 
+      - 📧 [sherwin.sandoval026@gmail.com](sherwin.sandoval026@gmail.com)
+  
 <!--
 **NastyKid/NastyKid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
