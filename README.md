@@ -5,7 +5,7 @@
 - 🌱 I'm currently learning javaScript, PHP, & Python.
 - 🛠️ I'm currently building my portfolio.
 - 📫 You can reach me: 
- - 📧 [sherwin.sandoval026@gmail.com](sherwin.sandoval026@gmail.com)
+  - 📧 [sherwin.sandoval026@gmail.com](sherwin.sandoval026@gmail.com)
   
 <!--
 **NastyKid/NastyKid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
