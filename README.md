@@ -2,7 +2,8 @@
 
 - 🤵 I want to be a backend dev or a data scientist.
 - 💖 I love solving machine and real world problems.
-- 🌱 I’m currently learning javaScript, PHP, & Python.
+- 🌱 I'm currently learning javaScript, PHP, & Python.
+- 🛠️ I'm currently building my portfolio.
 - 📫 You can reach me: 
       - 📧 [sherwin.sandoval026@gmail.com](sherwin.sandoval026@gmail.com)
   
