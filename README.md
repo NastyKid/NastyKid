@@ -1,6 +1,6 @@
 ### Hallooo!! 👋
 
-## I am sherwin
+## I am Sherwin
 
 - 🤵 I want to be a backend dev or a data scientist.
 - 💖 I love solving machine and real world problems.
