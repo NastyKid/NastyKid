@@ -2,7 +2,7 @@
 
 ## I am Sherwin
 
-- 🤵 I want to be a backend dev or a data scientist.
+- 🤵 I want to be a developer (full-stack or back-end).
 - 💖 I love solving machine and real world problems.
 - 🌱 I'm currently learning javaScript, PHP, & Python.
 - 🛠️ I'm currently building my portfolio.
