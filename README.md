@@ -4,8 +4,7 @@
 
 - 🤵 I want to be a developer (full-stack or back-end).
 - 💖 I love solving machine and real world problems.
-- 🌱 I'm currently learning javaScript, PHP, & Python.
-- 🛠️ a work in progress
+- 🧠 I'm currently learning javaScript, PHP, Dart, & Python.
 - 📫 You can reach me: 
   - 📧 [sherwin.sandoval026@gmail.com](mailto:sherwin.sandoval026@gmail.com)
   
