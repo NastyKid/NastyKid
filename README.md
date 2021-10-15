@@ -12,7 +12,7 @@
       - phpMyAdmin
 - 📫 You can reach me: 
   - 📧 [sherwin.sandoval026@gmail.com](mailto:sherwin.sandoval026@gmail.com)
-  
+  - [My linkedIn Profile](https://www.linkedin.com/feed/)
   
 <!--
 **NastyKid/NastyKid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
