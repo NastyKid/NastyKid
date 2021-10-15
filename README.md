@@ -3,13 +3,13 @@
 ## I'am Sherwin
 
 - 🤵 Aspiring to be a developer.
-- 💖 I love so many things but most of all I love automation.
+- 💖 I love so many things but above of all I love automation.
 - 🧠 I'm currently expanding my knowledge in javaScript, PHP, Dart, & OOP.
-- 🧰 The tools at my pocket are:
-      - MySQL
-      - Flutter
-      - CodeIgniter
-      - phpMyAdmin
+- 🧰 The tools at my pocket are: 
+  - MySQL
+  - Flutter
+  - CodeIgniter
+  - phpMyAdmin
 - 📫 You can reach me: 
   - 📧 [sherwin.sandoval026@gmail.com](mailto:sherwin.sandoval026@gmail.com)
   - [My linkedIn Profile](https://www.linkedin.com/feed/)
