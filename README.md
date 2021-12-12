@@ -53,12 +53,8 @@
 
 ## Github Stats
 <div align="center">
-  <a href="">
-    <img width="500" align="center" src="https://github-readme-stats.vercel.app/api?username=eSmooothie&show_icons=true&theme=dracula" />
-  </a>
-  <a href="">
-    <img width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eSmooothie&layout=compact" />
-  </a>
+   <img width="500" align="center" src="https://github-readme-stats.vercel.app/api?username=eSmooothie&show_icons=true&theme=dracula" />
+   <img width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eSmooothie&layout=compact" />
 </div>
 
 
