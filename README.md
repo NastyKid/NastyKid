@@ -11,18 +11,23 @@
   <span>
     <img height="75" src="https://github.com/eSmooothie/eSmooothie/blob/main/images/codeigniter.png?raw=true"/>
   </span>
+  &nbsp;&nbsp;
   <span>
     <img height="75" src="https://github.com/eSmooothie/eSmooothie/blob/main/images/flutter.png?raw=true"/>
   </span>
+  &nbsp;&nbsp;
   <span>
     <img height="75" src="https://github.com/eSmooothie/eSmooothie/blob/main/images/git.png?raw=true"/>
   </span>
+  &nbsp;&nbsp;
   <span>
     <img height="75" src="https://github.com/eSmooothie/eSmooothie/blob/main/images/godot_engine.png?raw=true"/>
   </span>
+  &nbsp;&nbsp;
   <span>
     <img height="75" src="https://github.com/eSmooothie/eSmooothie/blob/main/images/java.png?raw=true"/>
   </span>
+  &nbsp;&nbsp;
   <span>
     <img height="75" src="https://github.com/eSmooothie/eSmooothie/blob/main/images/python.png?raw=true"/>
   </span>
@@ -31,22 +36,26 @@
   <span>
     <img height="75" src="https://github.com/eSmooothie/eSmooothie/blob/main/images/mysql.png?raw=true"/>
   </span>
+  &nbsp;&nbsp;
   <span>
     <img height="75" src="https://github.com/eSmooothie/eSmooothie/blob/main/images/oop.png?raw=true"/>
   </span>
+  &nbsp;&nbsp;
   <span>
     <img height="75" src="https://github.com/eSmooothie/eSmooothie/blob/main/images/phpMyAdmin.png?raw=true"/>
   </span>
+  &nbsp;&nbsp;
   <span>
     <img height="75" src="https://github.com/eSmooothie/eSmooothie/blob/main/images/sql.png?raw=true"/>
   </span>
+  &nbsp;&nbsp;
   <span>
     <img height="75" src="https://github.com/eSmooothie/eSmooothie/blob/main/images/php.png?raw=true"/>
   </span>
 </div>
 
 
-## 📫 You can reach me: 
+## 📫 You can reach me through: 
 
 <div align="center">
   <a align="left" href="mailto:sherwin.sandoval026@gmail.com">
