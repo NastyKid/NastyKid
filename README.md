@@ -23,6 +23,9 @@
   <span>
     <img height="75" src="https://github.com/eSmooothie/eSmooothie/blob/main/images/java.png"/>
   </span>
+  <span>
+    <img height="75" src="https://github.com/eSmooothie/eSmooothie/blob/main/images/python.png"/>
+  </span>
 </div>
 <div align="center">
   <span>
