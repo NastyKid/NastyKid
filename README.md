@@ -79,7 +79,8 @@
 ## Github Stats
 <div align="center">
    <img width="500" align="center" src="https://github-readme-stats.vercel.app/api?username=eSmooothie&show_icons=true&theme=dracula" />
-   &nbsp;&nbsp;&nbsp;
+</div>
+<div align="center">
    <img width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eSmooothie&layout=compact&theme=dracula" />
 </div>
 
