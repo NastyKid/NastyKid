@@ -9,7 +9,7 @@
 
 
 
-
+<br /><br />
 ## 🧰 Tech stack: 
 <div align="center">
   <span>
@@ -60,7 +60,7 @@
 
 
 
-
+<br />
 ## 📫 You can reach me through: 
 
 <div align="center">
@@ -75,7 +75,7 @@
 
 
 
- 
+<br />
 ## Github Stats
 <br />
 <div align="center">
