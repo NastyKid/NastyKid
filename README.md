@@ -5,40 +5,43 @@
 - 🤵 Aspiring to be a developer.
 - 💖 I love so many things but above of all I love automation.
 - 🧠 I'm currently expanding my knowledge in Laravel, PHP, Dart, & OOP.
-- 🧰 The tools at my pocket are: 
+
+## 🧰 Tech stack: 
 <div align="center">
   <span>
-    <img height="100" src="https://drive.google.com/uc?id=16vYm21PX2VE3Kdc5DbZuFiLykCmNm0I5"/>
+    <img height="50" src="https://drive.google.com/uc?id=16vYm21PX2VE3Kdc5DbZuFiLykCmNm0I5"/>
   </span>
   <span>
-    <img height="100" src="https://drive.google.com/uc?id=1GlQei7q5VoA7oWGV16XJK-ZdcZy7Do6j"/>
+    <img height="50" src="https://drive.google.com/uc?id=1GlQei7q5VoA7oWGV16XJK-ZdcZy7Do6j"/>
   </span>
   <span>
-    <img height="100" src="https://drive.google.com/uc?id=128HvQnAXts7qp7JqhDLA8uAdb-rdvGMa"/>
+    <img height="50" src="https://drive.google.com/uc?id=128HvQnAXts7qp7JqhDLA8uAdb-rdvGMa"/>
   </span>
   <span>
-    <img height="100" src="https://drive.google.com/uc?id=1l2VCKZiglhYLEuOXVeT1TW-KORH4cVZm"/>
+    <img height="50" src="https://drive.google.com/uc?id=1l2VCKZiglhYLEuOXVeT1TW-KORH4cVZm"/>
   </span>
   <span>
-    <img height="100" src="https://drive.google.com/uc?id=1R8yQkqAcZDBI67eabpSPMYfT5qxIH9-i"/>
+    <img height="50" src="https://drive.google.com/uc?id=1R8yQkqAcZDBI67eabpSPMYfT5qxIH9-i"/>
   </span>
   <span>
-    <img height="100" src="https://drive.google.com/uc?id=1EaZpovsVztn1TGEObiR0_YKPHVoKtE9b"/>
+    <img height="50" src="https://drive.google.com/uc?id=1EaZpovsVztn1TGEObiR0_YKPHVoKtE9b"/>
   </span>
   <span>
-    <img height="100" src="https://drive.google.com/uc?id=1B9_7ZulU_DEN0BuZllv9RDiM78eCIjFo"/>
+    <img height="50" src="https://drive.google.com/uc?id=1B9_7ZulU_DEN0BuZllv9RDiM78eCIjFo"/>
   </span>
   <span>
-    <img height="100" src="https://drive.google.com/uc?id=1CVyBEtIaQOTbqXIHutvirQQG6H26gW4C"/>
+    <img height="50" src="https://drive.google.com/uc?id=1CVyBEtIaQOTbqXIHutvirQQG6H26gW4C"/>
   </span>
   <span>
-    <img height="100" src="https://drive.google.com/uc?id=1cwCNOTXWOtRqoASGSbn_KMtYyL0PpuL4"/>
+    <img height="50" src="https://drive.google.com/uc?id=1cwCNOTXWOtRqoASGSbn_KMtYyL0PpuL4"/>
   </span>
   <span>
-    <img height="100" src="https://drive.google.com/uc?id=1BYd5pkAaS5hIok2q6BgbdntxT5CRNQd6"/>
+    <img height="50" src="https://drive.google.com/uc?id=1BYd5pkAaS5hIok2q6BgbdntxT5CRNQd6"/>
   </span>
 </div>
-- 📫 You can reach me: 
+
+
+## 📫 You can reach me: 
   - 📧 [sherwin.sandoval026@gmail.com](mailto:sherwin.sandoval026@gmail.com)
   - 🔗 [My linkedIn Profile](https://www.linkedin.com/feed/)
  
