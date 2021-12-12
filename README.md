@@ -47,8 +47,14 @@
 
 
 ## 📫 You can reach me: 
-  - 📧 [sherwin.sandoval026@gmail.com](mailto:sherwin.sandoval026@gmail.com)
-  - 🔗 [My linkedIn Profile](https://www.linkedin.com/feed/)
+<div align="left">
+  <a href="mailto:sherwin.sandoval026@gmail.com">
+    <img src="https://github.com/eSmooothie/eSmooothie/blob/main/images/email.png"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sherwin-sandoval-bab61819b/">
+    <img src="https://github.com/eSmooothie/eSmooothie/blob/main/images/linkedIn.png"/>
+  </a>
+</div>
  
 
 ## Github Stats
