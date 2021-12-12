@@ -61,6 +61,7 @@
 
 
 <br />
+
 ## 📫 You can reach me through: 
 
 <div align="center">
@@ -76,6 +77,7 @@
 
 
 <br />
+
 ## Github Stats
 <br />
 <div align="center">
