@@ -3,8 +3,12 @@
 ## I'am Sherwin
 
 - 🤵 Aspiring to be a developer.
-- 💖 I love so many things but above of all I love automation.
+- 💖 I love so many things but above of all I love science and technology.
 - 🧠 I'm currently expanding my knowledge in Laravel, PHP, Dart, & OOP.
+- 🎯 To be a Software Engineer.
+
+
+
 
 ## 🧰 Tech stack: 
 <div align="center">
@@ -55,6 +59,8 @@
 </div>
 
 
+
+
 ## 📫 You can reach me through: 
 
 <div align="center">
@@ -70,7 +76,6 @@
 
 
  
-
 ## Github Stats
 <div align="center">
    <img width="500" align="center" src="https://github-readme-stats.vercel.app/api?username=eSmooothie&show_icons=true&theme=dracula" />
