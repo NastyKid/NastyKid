@@ -48,11 +48,11 @@
 
 ## 📫 You can reach me: 
 
-<div align="left">
+<div align="center">
   <a align="left" href="mailto:sherwin.sandoval026@gmail.com">
     <img height="75" src="https://github.com/eSmooothie/eSmooothie/blob/main/images/email.png?raw=true"/>
   </a>
-  <span style="border:1px solid black;">sherwin.sandoval026@gmail.com</span>
+  <span>sherwin.sandoval026@gmail.com</span>
 </div>
 
 <a align="left" href="https://www.linkedin.com/in/sherwin-sandoval-bab61819b/">
