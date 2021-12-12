@@ -9,7 +9,7 @@
 ## 🧰 Tech stack: 
 <div align="center">
   <span>
-    <img height="75" src="https://drive.google.com/uc?id=16vYm21PX2VE3Kdc5DbZuFiLykCmNm0I5"/>
+    <img height="75" src="https://github.com/eSmooothie/eSmooothie/blob/main/images/codeigniter.png"/>
   </span>
   <span>
     <img height="75" src="https://drive.google.com/uc?id=1GlQei7q5VoA7oWGV16XJK-ZdcZy7Do6j"/>
