@@ -12,33 +12,33 @@
     <img height="75" src="https://github.com/eSmooothie/eSmooothie/blob/main/images/codeigniter.png"/>
   </span>
   <span>
-    <img height="75" src="https://drive.google.com/uc?id=1GlQei7q5VoA7oWGV16XJK-ZdcZy7Do6j"/>
+    <img height="75" src="https://github.com/eSmooothie/eSmooothie/blob/main/images/flutter.png"/>
   </span>
   <span>
-    <img height="75" src="https://drive.google.com/uc?id=128HvQnAXts7qp7JqhDLA8uAdb-rdvGMa"/>
+    <img height="75" src="https://github.com/eSmooothie/eSmooothie/blob/main/images/git.png"/>
   </span>
   <span>
-    <img height="75" src="https://drive.google.com/uc?id=1l2VCKZiglhYLEuOXVeT1TW-KORH4cVZm"/>
+    <img height="75" src="https://github.com/eSmooothie/eSmooothie/blob/main/images/godot_engine.png"/>
   </span>
   <span>
-    <img height="75" src="https://drive.google.com/uc?id=1R8yQkqAcZDBI67eabpSPMYfT5qxIH9-i"/>
+    <img height="75" src="https://github.com/eSmooothie/eSmooothie/blob/main/images/java.png"/>
   </span>
 </div>
 <div align="center">
   <span>
-    <img height="75" src="https://drive.google.com/uc?id=1EaZpovsVztn1TGEObiR0_YKPHVoKtE9b"/>
+    <img height="75" src="https://github.com/eSmooothie/eSmooothie/blob/main/images/mysql.png"/>
   </span>
   <span>
-    <img height="75" src="https://drive.google.com/uc?id=1B9_7ZulU_DEN0BuZllv9RDiM78eCIjFo"/>
+    <img height="75" src="https://github.com/eSmooothie/eSmooothie/blob/main/images/oop.png"/>
   </span>
   <span>
-    <img height="75" src="https://drive.google.com/uc?id=1CVyBEtIaQOTbqXIHutvirQQG6H26gW4C"/>
+    <img height="75" src="https://github.com/eSmooothie/eSmooothie/blob/main/images/phpMyAdmin.png"/>
   </span>
   <span>
-    <img height="75" src="https://drive.google.com/uc?id=1cwCNOTXWOtRqoASGSbn_KMtYyL0PpuL4"/>
+    <img height="75" src="https://github.com/eSmooothie/eSmooothie/blob/main/images/sql.png"/>
   </span>
   <span>
-    <img height="75" src="https://drive.google.com/uc?id=1BYd5pkAaS5hIok2q6BgbdntxT5CRNQd6"/>
+    <img height="75" src="https://github.com/eSmooothie/eSmooothie/blob/main/images/php.png"/>
   </span>
 </div>
 
