@@ -7,8 +7,12 @@
 - 🧠 I'm currently expanding my knowledge in Laravel, PHP, Dart, & OOP.
 - 🧰 The tools at my pocket are: 
 <div align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/codeigniter-1.svg"/>
-  
+  <span>
+    <img height="100" src="https://i.pinimg.com/originals/c2/9d/03/c29d0302e9e2f678f26bc6d53b0f0e41.jpg"/>
+  </span>
+  <span>
+    <img height="100" src="https://i.pinimg.com/originals/25/41/3b/25413b4f7d757637bbeae73cb1aeca06.jpg"/>
+  </span>
 </div>
 - 📫 You can reach me: 
   - 📧 [sherwin.sandoval026@gmail.com](mailto:sherwin.sandoval026@gmail.com)
