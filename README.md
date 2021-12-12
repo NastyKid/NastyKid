@@ -15,7 +15,7 @@
   - 🔗 [My linkedIn Profile](https://www.linkedin.com/feed/)
  
  
-[![eSmooothiee's GitHub stats](https://github-readme-stats.vercel.app/api?username=eSmooothie&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![eSmooothiee's GitHub stats](https://github-readme-stats.vercel.app/api?username=eSmooothie&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **NastyKid/NastyKid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
