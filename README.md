@@ -8,7 +8,7 @@
 - 🧰 The tools at my pocket are: 
 <div align="center">
   <span>
-    <img height="100" src="https://drive.google.com/file/d/16vYm21PX2VE3Kdc5DbZuFiLykCmNm0I5/view?usp=sharing"/>
+    <img height="100" src="https://drive.google.com/uc?id=16vYm21PX2VE3Kdc5DbZuFiLykCmNm0I5"/>
   </span>
   <span>
     <img height="100" src="https://i.pinimg.com/originals/25/41/3b/25413b4f7d757637bbeae73cb1aeca06.jpg"/>
