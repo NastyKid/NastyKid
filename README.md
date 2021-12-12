@@ -13,7 +13,9 @@
 - 📫 You can reach me: 
   - 📧 [sherwin.sandoval026@gmail.com](mailto:sherwin.sandoval026@gmail.com)
   - 🔗 [My linkedIn Profile](https://www.linkedin.com/feed/)
-  
+ 
+ 
+[![eSmooothiee's GitHub stats](https://github-readme-stats.vercel.app/api?username=eSmooothie)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **NastyKid/NastyKid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
