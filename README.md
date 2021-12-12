@@ -11,6 +11,8 @@
 
 <br /><br />
 ## 🧰 Tech stack: 
+
+<br />
 <div align="center">
   <span>
     <img height="75" src="https://github.com/eSmooothie/eSmooothie/blob/main/images/codeigniter.png?raw=true"/>
@@ -64,6 +66,7 @@
 
 ## 📫 You can reach me through: 
 
+<br />
 <div align="center">
   <a align="left" href="mailto:sherwin.sandoval026@gmail.com">
     <img height="75" src="https://github.com/eSmooothie/eSmooothie/blob/main/images/email.png?raw=true"/>
