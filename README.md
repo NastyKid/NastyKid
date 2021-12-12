@@ -47,14 +47,16 @@
 
 
 ## 📫 You can reach me: 
-<div align="left">
-  <a href="mailto:sherwin.sandoval026@gmail.com">
-    <img height="75" src="https://github.com/eSmooothie/eSmooothie/blob/main/images/email.png"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sherwin-sandoval-bab61819b/">
-    <img height="75" src="https://github.com/eSmooothie/eSmooothie/blob/main/images/linkedIn.png"/>
-  </a>
-</div>
+
+<a href="mailto:sherwin.sandoval026@gmail.com">
+  <img height="75" src="https://github.com/eSmooothie/eSmooothie/blob/main/images/email.png"/>
+  <h5>sherwin.sandoval026@gmail.com</h5>
+</a>
+<a href="https://www.linkedin.com/in/sherwin-sandoval-bab61819b/">
+  <img height="75" src="https://github.com/eSmooothie/eSmooothie/blob/main/images/linkedIn.png"/>
+  <h5>Sherwin Sandoval</h5>
+</a>
+
  
 
 ## Github Stats
