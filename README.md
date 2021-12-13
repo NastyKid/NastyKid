@@ -4,7 +4,7 @@
 
 - 🤵 Aspiring to be a developer.
 - 💖 I love so many things but above of all I love science and technology.
-- 🧠 I'm currently expanding my knowledge in Laravel, PHP, Dart, & OOP.
+- 🧠 I'm currently expanding my knowledge in Laravel, Angular, PHP, JS, & OOP.
 - 🎮 My hobbies are playing video games, cooking, and watching films.
 
 
