@@ -10,7 +10,7 @@
 
 
 <br /><br />
-## 🧰 Tech stack: 
+## 🗃️ Tech stack: 
 
 <br />
 <div align="center">
