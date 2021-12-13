@@ -64,7 +64,7 @@
 
 <br />
 
-## 📫 You can reach me through: 
+## 🤝 You can reach me through: 
 
 <br />
 <div align="center">
