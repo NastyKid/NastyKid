@@ -2,10 +2,10 @@
 
 ## I'am Sherwin
 
-- 🤵 Aspiring to be a Software Engineer/Developer.
+- 🤵 Aspiring to be a better Software Engineer/Developer.
 - 💖 I love so many things but above of all I love science and technology.
-- 🧠 I'm currently expanding my knowledge in Laravel, Angular, PHP, JS, & OOP.
-- 🎮 My hobbies are playing video games, cooking, and watching films.
+- 🧠 I'm currently expanding my knowledge on Django, Python, and Design Practice.
+- 🎮 My hobbies are playing video games, cooking, and watching films & anime.
 
 
 
@@ -18,22 +18,22 @@
     <img height="75" src="https://github.com/eSmooothie/eSmooothie/blob/main/images/codeigniter.png?raw=true"/>
   </span>
   &nbsp;&nbsp;
-  <span>
+  <!--<span>
     <img height="75" src="https://github.com/eSmooothie/eSmooothie/blob/main/images/flutter.png?raw=true"/>
   </span>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;-->
   <span>
     <img height="75" src="https://github.com/eSmooothie/eSmooothie/blob/main/images/git.png?raw=true"/>
   </span>
   &nbsp;&nbsp;
-  <span>
+  <!--<span>
     <img height="75" src="https://github.com/eSmooothie/eSmooothie/blob/main/images/godot_engine.png?raw=true"/>
   </span>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;-
   <span>
     <img height="75" src="https://github.com/eSmooothie/eSmooothie/blob/main/images/java.png?raw=true"/>
   </span>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;-->
   <span>
     <img height="75" src="https://github.com/eSmooothie/eSmooothie/blob/main/images/python.png?raw=true"/>
   </span>
